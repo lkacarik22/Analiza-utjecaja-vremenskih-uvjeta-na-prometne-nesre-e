@@ -1,1 +1,5 @@
-Flask aplikacija se pokreće pokretanjem notebooka. Ukoliko želite zgasiti server trebate zgasiti kernel.
+Flask aplikacija se pokreće pokretanjem notebooka. 
+Ukoliko želite zgasiti server trebate zgasiti kernel.
+
+Link na github: https://github.com/lkacarik22/Analiza-utjecaja-vremenskih-uvjeta-na-prometne-nesre-e/blob/main/AnalizaPrometnih.ipynb
+Link na jupyter notebook: https://nbviewer.org/github/lkacarik22/Analiza-utjecaja-vremenskih-uvjeta-na-prometne-nesre-e/blob/main/AnalizaPrometnih.ipynb
